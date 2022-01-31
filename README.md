@@ -1,7 +1,6 @@
 ### Óla! Eu sou o Jorge Lemes 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/3l3m3nt_85),[![innkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-lemes-06a742178/),[![github]
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/3l3m3nt_85),[![innkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-lemes-06a742178/)
 
 <div align="center">
   <a href="https://github.com/jorgelemes">
